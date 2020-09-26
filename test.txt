@@ -1,3 +1,5 @@
 this is just for demo in master page!
 
 // second line is added to branch 
+
+// this is the third line added to core-branch. 
